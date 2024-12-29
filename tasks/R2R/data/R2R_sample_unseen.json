@@ -1,0 +1,19 @@
+[
+    {
+      "distance": 10.86, 
+      "scan": "8194nk5LbLH", 
+      "path_id": 4332, 
+      "path": [
+        "c9e8dc09263e4d0da77d16de0ecddd39", 
+        "f33c718aaf2c41469389a87944442c62", 
+        "ae91518ed77047b3bdeeca864cd04029", 
+        "6776097c17ed4b93aee61704eb32f06c"
+      ], 
+      "heading": 4.055, 
+      "instructions": [
+        "Walk to the other end of the lobby and wait near the exit. ", 
+        "Walk straight toward the bar with the chairs/stool. Turn left and go straight until you get to three tables with chairs. Turn left and wait near the couch. ", 
+        "Go forward toward the windows. Go toward the the far couch, Stop next to the couch, in front of the windows. "
+      ]
+    }
+]

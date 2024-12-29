@@ -1,0 +1,117 @@
+[
+    {
+        "scan": "pa4otMbVnkk",
+        "path_id": 6539,
+        "path": [
+            "637126917ec84d1aa32c986159ce2dc9"
+        ],
+        "heading": 5.529,
+        "instructions": [
+            "Walk to the left of the railing down the hall. Continue down the hall and stop next to the room with the workout equipment. ",
+            "Walk down the hallway with the black railing. Walk past the painting and brown door. Stop in front of the two framed pictures. ",
+            "Walk all the way down the hallway keeping the wall on your left and stop in front of the door on your right side that has the treadmill inside. "
+        ],
+        "instructions_minimal": [
+            "Walk down the hall to the left of the railing and stop by the workout room.",
+            "Walk down the hallway and stop in front of the framed pictures.",
+            "Walk down the hallway with the wall on your left and stop at the right door with the treadmill."
+        ],
+        "instructions_goal_only": [
+            "Stop next to the room with the workout equipment.",
+            "Stop in front of the two framed pictures.",
+            "Stop in front of the treadmill door."
+        ]
+    },
+    {
+        "scan": "wc2JMjhGNzB",
+        "path_id": 2666,
+        "path": [
+            "2cddef1c57c04f8c8863e15b371d7250"
+        ],
+        "heading": 1.344,
+        "instructions": [
+            "Enter the kitchen, take the exit past the refrigerator, then turn right down the hallway until you reach the stairs, then take another right and wait at the base of the stairs. ",
+            "When you leave the sitting area and are facing the kitchen take a left and go through the entryway. Once you are in the hall take a right and walk straight down the hall until you get to the stairs. Next, you need to take a right so you are in front of the stairs. Wait in front of the stairs. ",
+            "Go out the kitchen using the opening on the left then turn right and head toward the stairs and wait there. "
+        ],
+        "instructions_minimal": [
+            "Go into the kitchen, exit past the refrigerator, turn right down the hallway to the stairs, then turn right and wait at the base.",
+            "After leaving the sitting area facing the kitchen, turn left through the entryway, then right in the hall and go straight to the stairs, turn right again, and wait in front of the stairs.",
+            "Exit the kitchen through the left door, turn right toward the stairs, and wait there."
+        ],
+        "instructions_goal_only": [
+            "Wait at the base of the stairs.",
+            "Wait in front of the stairs.",
+            "Wait near the stairs."
+        ]
+    },
+    {
+        "scan": "rqfALeAoiTq",
+        "path_id": 1800,
+        "path": [
+            "52c20663773f406da8af0b2c7be7f108"
+        ],
+        "heading": 3.271,
+        "instructions": [
+            "Exit through door on right, go down the hall, towards stairs on left side, stop at the top of the stairs. ",
+            "Go towards the black and white abstract painting directly ahead of you.Make an immediate right at the lime green colored doors. Go down the hallway until you see another abstract painting on your left and then wait at the top of the stairs. ",
+            "Walk forward and take the first right to leave the room. In the hall stay left and go down the first two stairs. Stop on the second from the top stair. "
+        ],
+        "instructions_minimal": [
+            "Exit the right door, walk down the hall to the stairs, and stop at the top.",
+            "Go straight, turn right at the doors, walk down the hallway until you see a painting on your left, and then wait at the top of the stairs.",
+            "Go out by taking the first right, stay left in the hall, go down two stairs, and stop at the second from the top."
+        ],
+        "instructions_goal_only": [
+            "Go to the top of the stairs.",
+            "Wait at the top of the stairs.",
+            "Stop on the second from the top stair."
+        ]
+    },
+    {
+        "scan": "q9vSo1VnCiC",
+        "path_id": 7209,
+        "path": [
+            "60f6063fb0c642c7908bc16d363a30ab"
+        ],
+        "heading": 6.12,
+        "instructions": [
+            "Walk through the bedroom into the hallway. Turn right and wait in the kitchen doorway. ",
+            "Enter the bedroom then exit from the door on the left, through the double doors and through the opening on the immediate right. Enter the kitchen from there. ",
+            "Walk to the left of the bed and through the doorway. Turn right and walk into the hallway. Stop in the entryway across from the double doors. "
+        ],
+        "instructions_minimal": [
+            "Go through the bedroom into the hallway, turn right, and wait in the kitchen doorway.",
+            "Go into the bedroom, exit to the left through the double doors, then turn right to enter the kitchen.",
+            "Walk left of the bed through the doorway, turn right into the hallway, and stop opposite the double doors."
+        ],
+        "instructions_goal_only": [
+            "Wait in the kitchen doorway.",
+            "Enter the kitchen.",
+            "Stop in the entryway across from the double doors."
+        ]
+    },
+    {
+        "scan": "ARNzJeq3xxb",
+        "path_id": 6555,
+        "path": [
+            "49c11a97fc40490894df81b13132e066"
+        ],
+        "heading": 4.872,
+        "instructions": [
+            "Go forward past the sitting area and walk onto the patio. On the patio take a right, and stop in front of the two iron chairs. ",
+            "Walk down the hallway past the sofa and out the front door.  Turn right and stand on the deck. ",
+            "Walk down the hall past the painting. Continue past the bedroom. Walk towards the small gnome statue on the left. Walk out the door to the outside. Turn right. Stop on the deck next to the sansevieria plants. "
+        ],
+        "instructions_minimal": [
+            "Walk past the sitting area onto the patio, turn right, and stop by the two iron chairs.",
+            "Go down the hallway, exit the front door, turn right, and stand on the deck.",
+            "Walk down the hall past the bedroom to the statue, exit the door, turn right, and stop on the deck."
+        ],
+        "instructions_goal_only": [
+            "Stop in front of the two iron chairs.",
+            "Stand on the deck.",
+            "Stop on the deck next to the sansevieria plants."
+        ]
+    }
+]

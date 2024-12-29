@@ -1,0 +1,148 @@
+[
+    {
+        "distance": 7.27,
+        "scan": "vyrNrziPKCB",
+        "path_id": 5593,
+        "path": [
+            "c8a5472a5ef243319ffa4f88d3ddb4bd",
+            "545da9c1d46243758c2f904ff4812ab0",
+            "a93a97e5e78946438c199367964bd080",
+            "466ef42243d641888f8044a19d263a56",
+            "bf12f8713f7d44a9b2d4dee1c8d43ba7"
+        ],
+        "heading": 0.053,
+        "instructions": [
+            "Exit the bedroom, cross the room to the left and stop near the room divider on the left,. ",
+            "Exit the room using the door on the left. Turn slightly left and go past the round table an chairs. Wait there. ",
+            "Walk out of the bedroom. Walk past the left side of the table and stop next to the chair and circle in the floor. "
+        ],
+        "instructions_minimal": [
+            "Leave the bedroom, move left across the room, and stop by the room divider.",
+            "Exit through the left door, turn slightly left, pass the round table and chairs, and wait.",
+            "Leave the bedroom, walk past the table's left side, and stop next to the chair on the floor."
+        ],
+        "instructions_goal_only": [
+            "Go to the room divider on the left.",
+            "Wait there.",
+            "Make a circle on the floor next to the chair."
+        ]
+    },
+    {
+        "distance": 13.12,
+        "scan": "aayBHfsNo7d",
+        "path_id": 711,
+        "path": [
+            "9568123de77d4e68bfba11f34b83ac7a",
+            "ab2d0f38b21e4493a632fd5aa8ef99a8",
+            "505ca3ca13414b7884dd6332040ca52c",
+            "d1af2f90794243db807d60a07050941c",
+            "696ce593a39d47ef9acf6902ee134861",
+            "5fdff4b578f24ff98a213299f3d91576",
+            "bd2827c564534256b48e64c1b9f4048f"
+        ],
+        "heading": 1.078,
+        "instructions": [
+            "Walk into bedroom. Walk past bedroom door. Wait at laundry room door. ",
+            "Walk through the door by the sink into the middle of the next room. Turn right and walk down the hallway and enter the third door on your right. ",
+            "Exit the bathroom, turn right, then head straight down the hallway. Stop and wait at the second door on the right. "
+        ],
+        "instructions_minimal": [
+            "Enter the bedroom, walk past the bedroom door, and wait at the laundry room door.",
+            "Go through the sink door into the next room, turn right, walk down the hallway, and enter the third door on the right.",
+            "Leave the bathroom, turn right, walk down the hallway, and wait at the second door on the right."
+        ],
+        "instructions_goal_only": [
+            "Wait at laundry room door.",
+            "Enter the third door on your right.",
+            "Wait at the second door on your right."
+        ]
+    },
+    {
+        "distance": 10.37,
+        "scan": "B6ByNegPMKs",
+        "path_id": 6757,
+        "path": [
+            "429c82fd297749ebb8d09f95ef888b3c",
+            "d7b24d1e4dfd45b389c40f2f743f7eec",
+            "00bb5fdd2e0d438682f400e515c36d96",
+            "bc57b2c41c444fd6b2da5cfdfaa865a5",
+            "19c436824dcf4f4fae134b0dc064a367",
+            "3f227a714e3c44aba3a19efe7b8b1681",
+            "8e3cb86643cc4eee947faae80d8fb256"
+        ],
+        "heading": 0.003,
+        "instructions": [
+            "Go left down the hallway toward the exit sign. Turn right and go down the hallway. Go into the door on the left and stop by the table. ",
+            "Walk down the hall towards the exit sign and turn right. Walk into the first door on the left and stop. ",
+            "Walk straight towards the exit sign.  Turn right at the hallway intersection. Turn left into the first room.  Wait by the table. "
+        ],
+        "instructions_minimal": [
+            "Go left down the hallway, turn right, enter the left door, and stop by the table.",
+            "Go down the hall, turn right, enter the first door on the left, and stop.",
+            "Go straight, turn right, turn left, and wait by the table."
+        ],
+        "instructions_goal_only": [
+            "Stop by the table.",
+            "Enter the first door on the left after turning right at the exit sign.",
+            "Wait by the table."
+        ]
+    },
+    {
+        "distance": 11.6,
+        "scan": "7y3sRwLe3Va",
+        "path_id": 6488,
+        "path": [
+            "f0db0d83f9d646b997d099d7eae80dd1",
+            "f6a03fba4dfd415a8b65cce84ee21c19",
+            "d7f5f168d31547ce866159165b644da5",
+            "554ecce763be4bd49e89c1bfb89676f3",
+            "180b0d7146704223a12bcef6699d0121",
+            "cd200cef3d824df19eadb99c5224e733"
+        ],
+        "heading": 1.722,
+        "instructions": [
+            "Walk toward the dining room but turn left before entering it and go into the open area.  Turn right at the round table and walk towards the closed front door.  Start to go up the stairs on your right and stop after going up two steps. ",
+            "Exit the kitchen, walk towards the front door and stop on the landing at the base of the stairs. ",
+            "Go into the archway to the left of the room with the dining table into the room with the circle table in the middle, make a right towards the front door, take two steps up the stairs onto the level and stop. "
+        ],
+        "instructions_minimal": [
+            "Walk toward the dining room, turn left before entering, go to the open area, turn right at the table, walk to the front door, climb two steps of the stairs, and stop.",
+            "Leave the kitchen, walk to the front door, and stand on the landing.",
+            "Enter the left archway from the dining room, turn right toward the front door, go up two stairs, and stop."
+        ],
+        "instructions_goal_only": [
+            "Stop after ascending two steps on the stairs beside the closed front door.",
+            "Stop on the landing at the base of the stairs.",
+            "Stop two steps up the stairs onto the level."
+        ]
+    },
+    {
+        "distance": 6.75,
+        "scan": "Vvot9Ly1tCj",
+        "path_id": 1990,
+        "path": [
+            "1e812dcf9b0f42b18c084b046ce5f49f",
+            "5e829267d55f4008be713ab979f3e0b5",
+            "0b2156c0034b43bc8b06023a4c4fe2db",
+            "1ee4777aa75549f5bb8d1c8371c72fc1",
+            "65404a6cb00f4598aa943d0ed191e4dd",
+            "411d85c5147c40b6b726160cec290b8e"
+        ],
+        "heading": 1.093,
+        "instructions": [
+            "Walk to the mirror and take a left before you reach it. Walk straight and out onto the patio. Stop once you are on the patio. ",
+            "Walk past the mirror towards the right and walk all the way through the bedroom. Wait just outside the door to the patio. ",
+            "Take a right and wait by the couch outside of the bedroom. "
+        ],
+        "instructions_minimal": [
+            "Take a left before the mirror, walk straight onto the patio, and stop there.",
+            "Walk to the right past the mirror, go through the bedroom, and wait outside the patio door.",
+            "Turn right and wait by the couch outside the bedroom."
+        ],
+        "instructions_goal_only": [
+            "Go onto the patio.",
+            "Wait outside the patio door.",
+            "Wait by the couch outside the bedroom."
+        ]
+    }
+]

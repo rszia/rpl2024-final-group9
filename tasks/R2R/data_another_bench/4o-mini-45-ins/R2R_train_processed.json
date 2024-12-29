@@ -1,0 +1,440 @@
+[
+    {
+        "distance": 11.66,
+        "scan": "VLzqgDo317F",
+        "path_id": 6250,
+        "path": [
+            "af3af33b0120469c9a00daa0d0b36799",
+            "5be145994f974347850a48cecd04cdcd",
+            "79aedad1206b4eea9c4b639ea2182eb7",
+            "1c91ed40af2246f2b126dd0f661970df",
+            "385019f5d018430fa233d483b253076c",
+            "fd263d778b534f798d0e1ae48886e5f3"
+        ],
+        "heading": 3.751,
+        "instructions": [
+            "Walk down one flight of stairs and stop on the landing. ",
+            "Walk between the columns and make a sharp turn right. Walk down the steps and stop on the landing. ",
+            "walk forward then turn right at the stairs then go down the stairs. "
+        ],
+        "instructions_minimal": [
+            "Go down one flight of stairs and stop.",
+            "Walk forward, turn right, walk down the steps, and stop on the landing.",
+            "Walk forward, turn right at the stairs, then go down the stairs."
+        ],
+        "instructions_goal_only": [
+            "Stop on the landing.",
+            "Stop on the landing.",
+            "Go down the stairs."
+        ]
+    },
+    {
+        "distance": 6.64,
+        "scan": "sT4fr6TAbpF",
+        "path_id": 3414,
+        "path": [
+            "9d001c6bc0f64a699fd36a6b9a61266a",
+            "8138835f78064c28b6c9c35a89eda7d6",
+            "37a978a1cc0e4464a714fb676f65b7fb",
+            "859a7c9c12c847d9a6860bd6d6bd635a",
+            "c3c5e202b9a04a63ae33742fe9095936",
+            "c06aae190b804b759496db0b88fe4820"
+        ],
+        "heading": 4.714,
+        "instructions": [
+            "Turn around and go straight. Take a left at the wall and go straight. ",
+            "Head straight until you pass the wall with holes in it the turn left and wait by the glass table with the white chairs. ",
+            "Go down past some room dividers toward a glasstop desk, and turn into the dining area. Wait next to the large glass dining table. "
+        ],
+        "instructions_minimal": [
+            "Turn around and go straight. Take a left and continue straight.",
+            "Go straight, turn left, and wait by the table.",
+            "Go straight toward the desk, then turn into the dining area. Wait next to the dining table."
+        ],
+        "instructions_goal_only": [
+            "Go straight to the wall.",
+            "Wait by the glass table with the white chairs.",
+            "Wait next to the large glass dining table."
+        ]
+    },
+    {
+        "distance": 7.61,
+        "scan": "8WUmhLawc2A",
+        "path_id": 48,
+        "path": [
+            "6c4ef6ac616042bc9fe4adc5f6d21b10",
+            "f553a3287fb2438b979f09b09448c7c0",
+            "e0d2a4e22abe44d7810d7e448fff6704",
+            "62e602fc5b85463dbd8f48ba625d05ef",
+            "1e951fdbfd9d45bbaf935da945f5425c",
+            "814d9aba371640e5a70bcb7833bfe08f",
+            "1b48df86b7a149fa8e90161265def866"
+        ],
+        "heading": 3.272,
+        "instructions": [
+            "Walk into the hallway and through the entrance to the kitchen area. Walk  Passed the sink and stove area and stop between the refrigerator and dining table. ",
+            "Walk through the kitchen. Go past the sink and stove stand in front of the dining table on the bench side. ",
+            "Walk into the kitchen.  Walk past the refrigerator.  Stop directly in front of the wooden table. "
+        ],
+        "instructions_minimal": [
+            "Enter the hallway, proceed to the kitchen, pass the sink and stove, and stop between the refrigerator and dining table.",
+            "Walk through the kitchen. Go past the sink and stove. Stand in front of the dining table on the bench side.",
+            "Enter the kitchen. Walk past the refrigerator. Stop in front of the table."
+        ],
+        "instructions_goal_only": [
+            "Stand between the refrigerator and dining table in the kitchen.",
+            "Stand in front of the dining table on the bench side.",
+            "Stand in front of the wooden table."
+        ]
+    },
+    {
+        "distance": 11.31,
+        "scan": "p5wJjkQkbXX",
+        "path_id": 2513,
+        "path": [
+            "897ee6cdc5314ffaa23bf487ac2e0def",
+            "12cd53fa035549b29c5afe191ca7c0bb",
+            "88e1a361dfe240d49d9f3bf34a8f1617",
+            "5d8ebc45c0c34488aca8f4edf86ec97c",
+            "7913c846ee9443daafb87cab26566963"
+        ],
+        "heading": 3.145,
+        "instructions": [
+            "Walk past the chairs and to the left. Walk in front of the chair and stop. ",
+            "Exit the bedroom via the farthest left. Walk toward the couch. Stop there. ",
+            "Go towards the front door but before the front door make a left, then through the archway, go to the middle of the middle room and stop. "
+        ],
+        "instructions_minimal": [
+            "Walk left and stop.",
+            "Exit the bedroom to the left. Walk toward the couch and stop.",
+            "Go to the front door, then turn left before the door. Proceed through the archway to the middle of the room and stop."
+        ],
+        "instructions_goal_only": [
+            "Stop in front of the chair.",
+            "Go to the couch.",
+            "Stop in the middle of the middle room."
+        ]
+    },
+    {
+        "distance": 13.34,
+        "scan": "SN83YJsR3w2",
+        "path_id": 6310,
+        "path": [
+            "bd67e1a2dec64aab9e028df026ce4caf",
+            "d2cf7bc1308c4d1b86973b4ad1336404",
+            "6019439d967f4e5ab8332170d0d17a57",
+            "913aefa5733c425eb79de9f5e225cd0e",
+            "f745a3bf638a40dd85e29ce98d8c2aba",
+            "81a50ecde0ab42cd81e0cf23a2529675",
+            "7d9e8e6508884b1c8c9fedf59d70729e"
+        ],
+        "heading": 1.829,
+        "instructions": [
+            "Walk beside the outside doors and behind the chairs across the room. Turn right and walk up the stairs. Stop on the seventh step. ",
+            "Turn left and walk through the living room. Exit the room, turn right and walk up the stairs. stop in th e middle of the stairs. ",
+            "With the windows on your left, walk through the large room past the sitting areas.  Go through the door left of the tapestry and enter a wood paneled room with a circle table in the middle.  Go up the stairs and stop on the sixth step from the bottom. "
+        ],
+        "instructions_minimal": [
+            "Walk beside the doors. Turn right and go up the stairs. Stop on the seventh step.",
+            "Turn left, exit the room, turn right, and walk up the stairs. Stop in the middle.",
+            "Walk straight, keeping the windows on your left. Go through the door to the left and enter the next room. Go up the stairs and stop on the sixth step from the bottom."
+        ],
+        "instructions_goal_only": [
+            "Stop on the seventh step.",
+            "Stop in the middle of the stairs.",
+            "Stop on the sixth step from the bottom."
+        ]
+    },
+    {
+        "distance": 10.84,
+        "scan": "XcA2TqTSSAj",
+        "path_id": 3100,
+        "path": [
+            "eb7c8095d2514ab7a84732fa41ed3594",
+            "bf22e389bd754181924923b4f5e0fe02",
+            "c43ed5913b6d45e5aa3b782bfa860805",
+            "ec0421cc61c64f6f8692d327d6838fd5",
+            "b6985ed68dd8405e969fcbbcd6dfcc42",
+            "213a5fa207dc491894df2f4405c40838",
+            "8fcf0b6f46b8465ab762e45a0060f6f0"
+        ],
+        "heading": 1.804,
+        "instructions": [
+            "Walk out of the bathroom and turn left. Walk along the hallway passed the white painting and the other bathroom.  Turn left towards the stairs. Walk down three of the stairs and wait on there. ",
+            "Exit the bathroom to the bedroom. Exit the bedroom using the door on the left then go straight until you get to the stairs and wait on the second step. ",
+            "Walk out of the bathroom into the bedroom and turn left. Continue out the bedroom door, turning left to wait at the top of the stairs. "
+        ],
+        "instructions_minimal": [
+            "Exit the bathroom and turn left. Walk down the hallway and turn left towards the stairs. Go down three stairs and wait there.",
+            "Exit the bathroom to the bedroom. Exit the bedroom through the left door. Go straight to the stairs and wait on the second step.",
+            "Exit the bathroom into the bedroom and turn left. Go out the bedroom door and turn left to wait at the top of the stairs."
+        ],
+        "instructions_goal_only": [
+            "Wait on the third step of the stairs.",
+            "Wait on the second step of the stairs.",
+            "Go to the top of the stairs."
+        ]
+    },
+    {
+        "distance": 11.16,
+        "scan": "7y3sRwLe3Va",
+        "path_id": 4415,
+        "path": [
+            "e29484c59af4429981a6a5d5afe4d5a0",
+            "d8cae4c7073346e392d3996254bf741c",
+            "af5f1942b4374015823bd32e31b31c64",
+            "9ee37c1bce0a41e8bd50821540e80713",
+            "fd4752f551d04e22be492adea0d9fb04",
+            "450b5325b5bf48f0a8076bb973b42fdf"
+        ],
+        "heading": 4.197,
+        "instructions": [
+            "Exit the room. Turn left and go down the hallway. Turn slightly right to continue going down the hallway. Turn right and go into the room. wait at the entrance. ",
+            "Make a left. Walk past the wall vent on the left. Make a right just after the bathroom. Make a right opposite the console table to the left. Wait at the threshold of the open door. ",
+            "Leave the room, and take a left. Take a right at the end of the hall, and take the first right. Enter the room, and stop in the doorway. "
+        ],
+        "instructions_minimal": [
+            "Exit the room. Turn left and continue down the hallway. Turn right into the room. Wait at the entrance.",
+            "Turn left. Walk past the vent on the left. Turn right after the bathroom. Turn right opposite the console table. Wait at the open door.",
+            "Leave the room, turn left, then right at the end of the hall. Take the first right and enter the room. Stop in the doorway."
+        ],
+        "instructions_goal_only": [
+            "Go into the room and wait at the entrance.",
+            "Wait at the threshold of the open door.",
+            "Enter the room."
+        ]
+    },
+    {
+        "distance": 9.94,
+        "scan": "7y3sRwLe3Va",
+        "path_id": 5133,
+        "path": [
+            "3fe5daf13a5546069766f1c4bfd50fcc",
+            "204fc459fd244be1b08fe56aa9caea9d",
+            "9ee37c1bce0a41e8bd50821540e80713",
+            "fd4752f551d04e22be492adea0d9fb04",
+            "450b5325b5bf48f0a8076bb973b42fdf"
+        ],
+        "heading": 2.739,
+        "instructions": [
+            "Turn right and walk across the hallway through the doorway. Turn slightly left and enter the middle hallway and walk though it. Wait at the entrance. ",
+            "Head out of the room and go to your left. Make the first right where the little door is. Go just past that door and wait in the doorway. ",
+            "Walk through the double doors make a left then a small right near the very small door. Walk into the doorway past the small door. "
+        ],
+        "instructions_minimal": [
+            "Turn right, go through the doorway, turn left, enter the middle hallway, and wait at the entrance.",
+            "Exit the room and turn left. Take the first right. Go past the door and wait in the doorway.",
+            "Walk through the double doors, turn left, then take a small right. Enter the doorway past the small door."
+        ],
+        "instructions_goal_only": [
+            "Wait at the entrance of the middle hallway.",
+            "Wait in the doorway past the little door.",
+            "Enter the doorway past the small door."
+        ]
+    },
+    {
+        "distance": 6.43,
+        "scan": "ZMojNkEp431",
+        "path_id": 5128,
+        "path": [
+            "ba8b23a7aaeb463ba565174f9f44787a",
+            "c5c6bc7725e44fbf9cdb474aef50a74b",
+            "acf55e0267824aef8e8b9ad200e36091",
+            "2fd10d37b87f46d6b4e0501aac549c6f",
+            "2f4d90acd4024c269fb0efe49a8ac540"
+        ],
+        "heading": 0.951,
+        "instructions": [
+            "Enter the kitchen and turn right by the sinks. Go between the cabinets towards the stairs. Turn left and wait by the stool at the end of the counter. ",
+            "Walk towards black steps.  Walk to chalkboard.  Wait here. ",
+            "Turn around and walk to the right of the room. Walk towards the stairs and then stop in the middle between the 2 sets of stairs at the bottom. "
+        ],
+        "instructions_minimal": [
+            "Enter the kitchen and turn right. Go between the cabinets towards the stairs. Turn left and wait by the stool.",
+            "Walk to the steps. Proceed to the chalkboard. Wait here.",
+            "Turn around and walk right. Go towards the stairs and stop between the two sets of stairs at the bottom."
+        ],
+        "instructions_goal_only": [
+            "Wait by the stool at the end of the counter.",
+            "Wait by the chalkboard.",
+            "Stand between the two sets of stairs at the bottom."
+        ]
+    },
+    {
+        "distance": 11.76,
+        "scan": "Uxmj2M2itWa",
+        "path_id": 6526,
+        "path": [
+            "e5d22d5625714f54add784abac16c69f",
+            "13c191f506114c73b70830b89e195aa6",
+            "d52aaea9fc6e4d5fbecd0220eb9da436",
+            "4890b24fbb59414892ca854895896126",
+            "37cb64e0cddc4f20b309abc4ff5344c2",
+            "3ba76deab6be444c8b21652763d82795"
+        ],
+        "heading": 0.614,
+        "instructions": [
+            "Go passed the red artwork on the left, go into the doorway and then make a right after the first silver chair. Go straight through the glass door and step into the bedroom and stop. ",
+            "Head inside, turn right, walk forward into the room, stop in front of the bed. ",
+            "head inside the building. turn right, then wait inside the bedroom. "
+        ],
+        "instructions_minimal": [
+            "Go past the artwork on the left, enter the doorway, then turn right after the first chair. Go straight through the door into the bedroom and stop.",
+            "Enter, turn right, go into the room, stop at the bed.",
+            "Enter the building. Turn right. Wait in the bedroom."
+        ],
+        "instructions_goal_only": [
+            "Enter the bedroom.",
+            "Stop in front of the bed.",
+            "Wait inside the bedroom."
+        ]
+    },
+    {
+        "distance": 9.37,
+        "scan": "EDJbREhghzL",
+        "path_id": 6907,
+        "path": [
+            "553465b804fb4fc29bf530f71dfdf1d5",
+            "df428e69750340cdb9612ca81d9b098b",
+            "4069c437611e44c69edf8175de76b201",
+            "118169c7cc3f488e88a237f10cad437b",
+            "9e6df4301d8e45b28d96c115dea94756",
+            "181111f8575a49039444d6180bf71c10"
+        ],
+        "heading": 1.153,
+        "instructions": [
+            "Turn right to exit the room. Turn right when you get to the end of the hallway. Walk toward the couches and stop there by the couches. ",
+            "Go through the door to the right and then go straight to the stairs. Pass the stairs and go to the back of the couch. ",
+            "Turn right and exit the bedroom. Take another right and wait at the sitting area with the couches and fireplace. "
+        ],
+        "instructions_minimal": [
+            "Turn right to exit the room. Turn right at the end of the hallway. Walk to the couches and stop there.",
+            "Go through the right door, go straight to the stairs, pass the stairs, and go to the back of the couch.",
+            "Turn right and exit the bedroom. Take another right and wait in the sitting area."
+        ],
+        "instructions_goal_only": [
+            "Go to the couches.",
+            "Go to the back of the couch.",
+            "Wait at the sitting area with the couches and fireplace."
+        ]
+    },
+    {
+        "distance": 11.9,
+        "scan": "D7N2EKCX4Sj",
+        "path_id": 6999,
+        "path": [
+            "e1166572e82f43d5857232295dcf4879",
+            "d4b19206bd8b4771b11a4dbda6cb9bff",
+            "28e6276f6b1a44aab5c15e875a4c3a5e",
+            "9e57fd7d4e9949f1a03f765da4a068fe",
+            "a0aeade23ab74a5f93544047c19718e8",
+            "9e94e381ffbf44eabc4b3fb0f8bff78a"
+        ],
+        "heading": 5.834,
+        "instructions": [
+            "Go up the stairs, and go right. Veer right, and enter the suite on the right. Stop once you are in the doorway. ",
+            "Walk up the stairs and take a right. Wait in the entrance if the kitchen and wait there. ",
+            "Continue to climb the stairs and at the top, turn right and exit the room though the opening to the right of the fireplace.  Go through the door opening to your right with the sign \"ABE LINCOLN\" above it. "
+        ],
+        "instructions_minimal": [
+            "Go up the stairs, turn right, veer right, and enter the suite on the right. Stop at the doorway.",
+            "Go up the stairs and turn right. Wait in the entrance.",
+            "Climb the stairs, turn right at the top, and exit through the opening on the right. Go through the door on your right."
+        ],
+        "instructions_goal_only": [
+            "Enter the suite on the right.",
+            "Wait in the kitchen entrance.",
+            "Exit through the door marked \"ABE LINCOLN.\""
+        ]
+    },
+    {
+        "distance": 14.22,
+        "scan": "2n8kARJN3HM",
+        "path_id": 2539,
+        "path": [
+            "3611ca6eb11f4a32a7cd3c073862860d",
+            "b2d31a869b644c738697a237d4e724b5",
+            "3d6c224493aa4b8fa5fd16e7ae8e2d66",
+            "82ee7783a95b4beeb1b8c518107c9ae2",
+            "2d21aec2e48b4797ad0367e96fd316f4",
+            "397cae1de3b74644804196b838fd3c8a",
+            "5b4f88b00af3413eb8a3706a62a761e1"
+        ],
+        "heading": 4.062,
+        "instructions": [
+            "Turn around until you're facing the middle of three arches with a table surrounded by six chairs behind you. Walk through the middle arch until you see a long table with eight chairs on each side and a fireplace further down in the next room to your right. There will be a door leading to the outside on your left. Turn ninety degrees to the right and walk towards the fireplace with the long table towards your left, stopping just before reaching the carpet in front of the fireplace. ",
+            "Facing the three archways go forward and immediately right, go through the rectangular archway and go into the first room on your left, go along the table, and stop at the chairs. ",
+            "Leave the office heading to the dining room. Walk through the room and into the kitchen. Stop in the doorway to the sitting room. "
+        ],
+        "instructions_minimal": [
+            "Turn around to face the middle arch. Walk through the middle arch. Turn right into the next room. There will be a door on your left. Turn right and walk towards the fireplace, keeping the long table on your left. Stop before the carpet in front of the fireplace.",
+            "Go forward, then immediately turn right. Enter the first room on your left and stop at the chairs.",
+            "Leave the office towards the dining room. Go through the dining room into the kitchen. Stop at the doorway to the sitting room."
+        ],
+        "instructions_goal_only": [
+            "Walk towards the fireplace.",
+            "Go to the chairs in the first room on your left.",
+            "Go to the sitting room."
+        ]
+    },
+    {
+        "distance": 5.17,
+        "scan": "HxpKQynjfin",
+        "path_id": 5577,
+        "path": [
+            "8255979462744450aef8a399712c0d7f",
+            "1dd50bf3662244b68314b8400ebb66b6",
+            "087babe565fd471381ae7adbf938f5fc",
+            "0a709d588fcd4ae5badd921366074d7a",
+            "efe359ee05ea46c587196354c2d1cc96",
+            "8b41e8798d78402f9f36b242972d729b",
+            "45ee2d428b7c42a98afe21f68a8fa298"
+        ],
+        "heading": 3.964,
+        "instructions": [
+            "Turn right and move forward around the bed, enter the bathroom and wait there. ",
+            "Walk around the bed and into the bathroom and stop. ",
+            "Turn around and walk to the other side of the bed and stop in the bathroom doorway. "
+        ],
+        "instructions_minimal": [
+            "Turn right, move forward, enter the bathroom, and wait.",
+            "Walk around the bed and enter the bathroom. Stop.",
+            "Turn around and walk to the bathroom doorway."
+        ],
+        "instructions_goal_only": [
+            "Wait in the bathroom.",
+            "Enter the bathroom.",
+            "Stand in the bathroom doorway."
+        ]
+    },
+    {
+        "distance": 17.53,
+        "scan": "8WUmhLawc2A",
+        "path_id": 5803,
+        "path": [
+            "b64a2ef467bb455aaee16a04bd9d7812",
+            "6a0eb3cedc6847efa4044c75ad7649a8",
+            "67ff5dc94eeb4675ba3a2074ee5ca22c",
+            "491b9b2d5e63400f9b448e5603dd05ae",
+            "0fd8c430bdb34aedb5c11b56ceb13b63",
+            "01b439d39a8f412fa1837be7afb45254",
+            "b6018ae2d13248f7a12edbf31f70b04d"
+        ],
+        "heading": 2.371,
+        "instructions": [
+            "Exit the room. Walk across the hallway. Turn slightly right and walk across the kitchen towards the sofas. Turn left and walkthrough doorway just right of the portraits of a family. ",
+            "Go straight down hallway turning right just after the kitchen table. Follow pathway on the left between kitchen island and the back of the brown couch make a slight right passing through the arch door way. Continue straight using the middle hallway stopping at the picture with prayer on it. ",
+            "Walk out of the bedroom and into the hall. Walk past the bench and then right past the island. Walk through the entryway and into the hallway on the right. Stop in front of the vent. "
+        ],
+        "instructions_minimal": [
+            "Exit the room. Cross the hallway. Turn right and walk towards the sofas. Turn left and go through the doorway.",
+            "Go straight down the hallway. Turn right after the kitchen table. Follow the path on the left, then make a slight right through the archway. Continue straight to the picture with the prayer.",
+            "Exit the bedroom into the hall. Pass the bench and the island. Go through the entryway into the right hallway. Stop in front of the vent."
+        ],
+        "instructions_goal_only": [
+            "Go through the doorway near the family portraits.",
+            "Stop at the picture with the prayer on it.",
+            "Stop in front of the vent."
+        ]
+    }
+]

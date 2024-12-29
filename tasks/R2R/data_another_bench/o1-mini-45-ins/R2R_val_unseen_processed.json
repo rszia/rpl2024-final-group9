@@ -1,0 +1,144 @@
+[
+    {
+        "distance": 10.86,
+        "scan": "8194nk5LbLH",
+        "path_id": 4332,
+        "path": [
+            "c9e8dc09263e4d0da77d16de0ecddd39",
+            "f33c718aaf2c41469389a87944442c62",
+            "ae91518ed77047b3bdeeca864cd04029",
+            "6776097c17ed4b93aee61704eb32f06c"
+        ],
+        "heading": 4.055,
+        "instructions": [
+            "Walk to the other end of the lobby and wait near the exit. ",
+            "Walk straight toward the bar with the chairs/stool. Turn left and go straight until you get to three tables with chairs. Turn left and wait near the couch. ",
+            "Go forward toward the windows. Go toward the the far couch, Stop next to the couch, in front of the windows. "
+        ],
+        "instructions_minimal": [
+            "Go to the lobby exit and wait.",
+            "Go straight to the bar, turn left, continue until you see three tables, then turn left and wait by the couch.",
+            "Move to the far couch near the windows and stop."
+        ],
+        "instructions_goal_only": [
+            "Wait near the exit.",
+            "Wait near the couch.",
+            "Stop next to the couch in front of the windows."
+        ]
+    },
+    {
+        "distance": 8.04,
+        "scan": "EU6Fwq7SyZv",
+        "path_id": 2390,
+        "path": [
+            "faed19f97550433b958958f4df869251",
+            "659c84430ca14aa5bf83a61683649a89",
+            "5b2de972faea4ca381cd72140f77b0c0",
+            "930cbd6da8f14dfba4d883c55a069f96",
+            "2c9141f7b24547c3808608bf9ad54b4d",
+            "ec0a7a6c66244eeea1fba43caddae01a"
+        ],
+        "heading": 1.29,
+        "instructions": [
+            "turn right and go up the stairs and stand at the top. ",
+            "Walk up the stairs and wait at the top. ",
+            "Go up the stairs. Stop at the top of the stairs. "
+        ],
+        "instructions_minimal": [
+            "Turn right, go upstairs, and stand at the top.",
+            "Go upstairs and wait at the top.",
+            "Climb the stairs and stop at the top."
+        ],
+        "instructions_goal_only": [
+            "Stand at the top.",
+            "Wait at the top.",
+            "Go to the top of the stairs."
+        ]
+    },
+    {
+        "distance": 15.93,
+        "scan": "QUCTc6BB5sX",
+        "path_id": 2365,
+        "path": [
+            "75ff3e14cc414e0e80e81f036520aedf",
+            "f1073371a7f44247a97f8c811c231676",
+            "8fb3957c552247aaa3ae81b0de0595d7",
+            "e8b0f0c7fa3f4f79b6a7f16144c545fc",
+            "b2a808be7a684e2d9e36517c5036d6be",
+            "57badf7fa7514fbaa937b5934cb3c0d4"
+        ],
+        "heading": 4.613,
+        "instructions": [
+            "Turn, putting the exit of the building  on your left. Walk to the end of the entrance way and turn left. Travel across the kitchen area with the counter and chairs on your right. Continue straight until you reach the dining room. Enter the room and stop and wait one meter from the closest end of the long dining table. ",
+            "Go down hallway towards the two white vases. When you have a staircase towards your right, turn left towards the dining room. Go past bar lined with chairs and wait in front of the long dining room table. ",
+            "Walk past the two urns and turn left. Walk to the entrance of the dining room, straight ahead, and stop under the arch. "
+        ],
+        "instructions_minimal": [
+            "Turn left with the exit on your left, walk to the end of the entrance and turn left, cross the kitchen, go straight to the dining room, enter and stop one meter from the table.",
+            "Walk down the hallway, turn left at the staircase, pass the bar, and wait by the dining table.",
+            "Turn left and go straight to the dining room entrance, stopping under the arch."
+        ],
+        "instructions_goal_only": [
+            "Enter the dining room and wait one meter from the end of the dining table.",
+            "Wait in front of the long dining room table.",
+            "Stop under the arch at the dining room entrance."
+        ]
+    },
+    {
+        "distance": 11.77,
+        "scan": "QUCTc6BB5sX",
+        "path_id": 1676,
+        "path": [
+            "6e951a0318b54df1ab206465f67b377f",
+            "609e62588e9149dba0ba478a64dac522",
+            "538a9f28b6a64ee39e14f791e7ce22f4",
+            "31b09a4f985246159cdb7331418bd4fa",
+            "aa33c75e6b8f4b41bcf15c917135d7c7",
+            "d777fc67b8164cb4a2fb05b81edb8015"
+        ],
+        "heading": 0.209,
+        "instructions": [
+            "Walk past the piano to the oval door opening, walk straight ahead to the bathtub, stop right in front of bathtub. ",
+            "Walk past piano. Walk through arched wooden doors. Wait at bathtub. ",
+            "Turn left and walk across the hallway. Turn left again and walk across this hallway and wait by the bathtub. "
+        ],
+        "instructions_minimal": [
+            "Go past the piano through the oval door and stop in front of the bathtub.",
+            "Walk past the piano, go through the doors, and wait at the bathtub.",
+            "Turn left, walk down the hallway, turn left again, walk to the bathtub, and wait there."
+        ],
+        "instructions_goal_only": [
+            "Stand in front of the bathtub.",
+            "Wait at the bathtub.",
+            "Wait by the bathtub."
+        ]
+    },
+    {
+        "distance": 10.66,
+        "scan": "QUCTc6BB5sX",
+        "path_id": 6440,
+        "path": [
+            "caf7c76c38a94f02943720cde114cc4f",
+            "414195b76186408b81db63defa6b8d83",
+            "d30cfd0e67de459bb27053a7682c0104",
+            "e049cbd79d51410e91b09ab7fd2074ec",
+            "3cdccfc437a14153939cf51089407b43"
+        ],
+        "heading": 1.796,
+        "instructions": [
+            "go straight to the door then turn right. ",
+            "Walk past the shelves and out of the garage. Stop in front of the opening to the wine cellar. ",
+            "With the storage lockers to your right, exit the garage via the door that's ahead of you and against the right hand wall. After exiting the garage, turn right ninety degrees and move forward until arched doorway is to your immediate right. "
+        ],
+        "instructions_minimal": [
+            "Go straight to the door and turn right.",
+            "Exit the garage past the shelves and stop at the wine cellar entrance.",
+            "Exit the garage through the front right door, turn right, and proceed until the doorway is on your right."
+        ],
+        "instructions_goal_only": [
+            "Turn right at the door.",
+            "Stop in front of the wine cellar.",
+            "Reach the arched doorway on your right."
+        ]
+    }
+]

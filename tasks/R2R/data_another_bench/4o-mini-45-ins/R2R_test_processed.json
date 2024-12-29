@@ -1,0 +1,347 @@
+[
+    {
+        "scan": "pa4otMbVnkk",
+        "path_id": 6539,
+        "path": [
+            "637126917ec84d1aa32c986159ce2dc9"
+        ],
+        "heading": 5.529,
+        "instructions": [
+            "Walk to the left of the railing down the hall. Continue down the hall and stop next to the room with the workout equipment. ",
+            "Walk down the hallway with the black railing. Walk past the painting and brown door. Stop in front of the two framed pictures. ",
+            "Walk all the way down the hallway keeping the wall on your left and stop in front of the door on your right side that has the treadmill inside. "
+        ],
+        "instructions_minimal": [
+            "Turn left and walk down the hall. Stop next to the workout equipment room.",
+            "Walk down the hallway. Stop in front of the two framed pictures.",
+            "Walk down the hallway keeping the wall on your left. Stop in front of the door on your right."
+        ],
+        "instructions_goal_only": [
+            "Stop next to the room with the workout equipment.",
+            "Stop in front of the two framed pictures.",
+            "Stop in front of the treadmill door."
+        ]
+    },
+    {
+        "scan": "wc2JMjhGNzB",
+        "path_id": 2666,
+        "path": [
+            "2cddef1c57c04f8c8863e15b371d7250"
+        ],
+        "heading": 1.344,
+        "instructions": [
+            "Enter the kitchen, take the exit past the refrigerator, then turn right down the hallway until you reach the stairs, then take another right and wait at the base of the stairs. ",
+            "When you leave the sitting area and are facing the kitchen take a left and go through the entryway. Once you are in the hall take a right and walk straight down the hall until you get to the stairs. Next, you need to take a right so you are in front of the stairs. Wait in front of the stairs. ",
+            "Go out the kitchen using the opening on the left then turn right and head toward the stairs and wait there. "
+        ],
+        "instructions_minimal": [
+            "Enter the kitchen, take the exit past the refrigerator, turn right down the hallway to the stairs, then take another right and wait at the base of the stairs.",
+            "Leave the sitting area and turn left. Go through the entryway. Turn right in the hall and walk straight to the stairs. Turn right to stand in front of the stairs. Wait there.",
+            "Exit the kitchen to the left, turn right, and head to the stairs. Wait there."
+        ],
+        "instructions_goal_only": [
+            "Wait at the base of the stairs.",
+            "Wait in front of the stairs.",
+            "Wait by the stairs."
+        ]
+    },
+    {
+        "scan": "rqfALeAoiTq",
+        "path_id": 1800,
+        "path": [
+            "52c20663773f406da8af0b2c7be7f108"
+        ],
+        "heading": 3.271,
+        "instructions": [
+            "Exit through door on right, go down the hall, towards stairs on left side, stop at the top of the stairs. ",
+            "Go towards the black and white abstract painting directly ahead of you.Make an immediate right at the lime green colored doors. Go down the hallway until you see another abstract painting on your left and then wait at the top of the stairs. ",
+            "Walk forward and take the first right to leave the room. In the hall stay left and go down the first two stairs. Stop on the second from the top stair. "
+        ],
+        "instructions_minimal": [
+            "Exit through the right door, go down the hall, turn left at the stairs, and stop at the top.",
+            "Go straight ahead. Turn right at the doors. Continue down the hallway until you reach the stairs and wait there.",
+            "Walk forward, take the first right, stay left in the hall, and go down two stairs. Stop on the second stair."
+        ],
+        "instructions_goal_only": [
+            "Stop at the top of the stairs.",
+            "Wait at the top of the stairs.",
+            "Stop on the second stair from the top."
+        ]
+    },
+    {
+        "scan": "q9vSo1VnCiC",
+        "path_id": 7209,
+        "path": [
+            "60f6063fb0c642c7908bc16d363a30ab"
+        ],
+        "heading": 6.12,
+        "instructions": [
+            "Walk through the bedroom into the hallway. Turn right and wait in the kitchen doorway. ",
+            "Enter the bedroom then exit from the door on the left, through the double doors and through the opening on the immediate right. Enter the kitchen from there. ",
+            "Walk to the left of the bed and through the doorway. Turn right and walk into the hallway. Stop in the entryway across from the double doors. "
+        ],
+        "instructions_minimal": [
+            "Exit the bedroom into the hallway. Turn right and wait in the kitchen doorway.",
+            "Enter the bedroom, exit through the left door, go through the double doors, then take the immediate right opening. Enter the kitchen.",
+            "Walk left of the bed through the doorway. Turn right and enter the hallway. Stop in the entryway across from the double doors."
+        ],
+        "instructions_goal_only": [
+            "Wait in the kitchen doorway.",
+            "Enter the kitchen.",
+            "Stop in the entryway across from the double doors."
+        ]
+    },
+    {
+        "scan": "ARNzJeq3xxb",
+        "path_id": 6555,
+        "path": [
+            "49c11a97fc40490894df81b13132e066"
+        ],
+        "heading": 4.872,
+        "instructions": [
+            "Go forward past the sitting area and walk onto the patio. On the patio take a right, and stop in front of the two iron chairs. ",
+            "Walk down the hallway past the sofa and out the front door.  Turn right and stand on the deck. ",
+            "Walk down the hall past the painting. Continue past the bedroom. Walk towards the small gnome statue on the left. Walk out the door to the outside. Turn right. Stop on the deck next to the sansevieria plants. "
+        ],
+        "instructions_minimal": [
+            "Go forward, then walk onto the patio. Take a right and stop in front of the chairs.",
+            "Walk down the hallway, exit the front door, turn right, and stand on the deck.",
+            "Walk down the hall. Continue past the bedroom. Turn left towards the door. Walk outside. Turn right. Stop on the deck."
+        ],
+        "instructions_goal_only": [
+            "Stop in front of the two iron chairs on the patio.",
+            "Stand on the deck.",
+            "Stop on the deck next to the sansevieria plants."
+        ]
+    },
+    {
+        "scan": "jtcxE69GiFV",
+        "path_id": 3642,
+        "path": [
+            "c52fd2b91233484e89459c346a55911f"
+        ],
+        "heading": 1.073,
+        "instructions": [
+            "Go all the way down the stairs. At the bottom of the stairs, turn left. Go past the couch and take another left. Stop there. ",
+            "Go down the stairs and take a left. Take the left at the bottom of the stairs. Stop next to the closet door on the left. ",
+            "Go down the cheetah stairs then turn left and pass the couch then turn left and wait there by the small door on your left. "
+        ],
+        "instructions_minimal": [
+            "Go down the stairs. Turn left at the bottom. Turn left again. Stop.",
+            "Go down the stairs, take a left, and stop next to the closet door on the left.",
+            "Go down the stairs, turn left, pass the couch, turn left again, and wait by the small door on your left."
+        ],
+        "instructions_goal_only": [
+            "Stop at the designated location.",
+            "Stop next to the closet door on the left.",
+            "Wait by the small door on your left."
+        ]
+    },
+    {
+        "scan": "2t7WUuJeko7",
+        "path_id": 3985,
+        "path": [
+            "362d0cba60a94638b4b7a30c029d3ef9"
+        ],
+        "heading": 5.825,
+        "instructions": [
+            "Exit the bedroom, go passed the table with china on it, turn left into the doorway, and then turn right, go straight passed the china case and then turn left into the doorway. Step between the bed and the window on the right and stop. ",
+            "Leave the room and go straight. take the last left into the hall. In the hall take the last left into the bedroom. Stop in front of the right side of the foot board. ",
+            "Turn around and exit the bedroom and enter the dining room. Exit the dining room and turn left to enter another bedroom. Wait at the foot of the bed. "
+        ],
+        "instructions_minimal": [
+            "Exit the bedroom, turn left into the doorway, turn right, go straight, turn left into the doorway, step between the bed and the window on the right, and stop.",
+            "Leave the room and go straight. Take the last left into the hall. Take the last left into the bedroom. Stop at the foot board on the right side.",
+            "Exit the bedroom and enter the dining room. Turn left to enter another bedroom. Wait at the foot of the bed."
+        ],
+        "instructions_goal_only": [
+            "Stop between the bed and the window on the right.",
+            "Stand in front of the right side of the foot board in the bedroom.",
+            "Wait at the foot of the bed."
+        ]
+    },
+    {
+        "scan": "WYY7iVyf5p8",
+        "path_id": 2910,
+        "path": [
+            "78ccff67adfd4f289548a7ec6751d977"
+        ],
+        "heading": 1.621,
+        "instructions": [
+            "Go towards the stairs and walk all the way up, and enter a room straight ahead, and stop there. ",
+            "walk away from the bathroom towards the stairs, turn left and walk up the stairs turn right and walk up the next flights of stairs, turn right and walk up the rest of the stairs and stop  in the doorway. ",
+            "From the bathroom doorway, walk towards the staircase. Go up the stairs. Whey you reach the landing, turn right and continue to go up the stairs. When you reach the next landing turn right and walk to the top of the stairs and into the kitchen. "
+        ],
+        "instructions_minimal": [
+            "Go up the stairs, enter the room straight ahead, and stop.",
+            "Walk away from the bathroom towards the stairs. Turn left, go up the stairs. Turn right, go up the next flights of stairs. Turn right, go up the rest of the stairs and stop in the doorway.",
+            "From the bathroom doorway, walk to the staircase. Go up the stairs. At the landing, turn right and continue up the stairs. At the next landing, turn right and enter the kitchen."
+        ],
+        "instructions_goal_only": [
+            "Enter the room at the top of the stairs.",
+            "Stop in the doorway at the top of the stairs.",
+            "Go to the kitchen."
+        ]
+    },
+    {
+        "scan": "wc2JMjhGNzB",
+        "path_id": 233,
+        "path": [
+            "818104cf87d045a18b4bf134ef76ec41"
+        ],
+        "heading": 6.18,
+        "instructions": [
+            "Walk down the hall and turn right, walk a step or two and turn left out of the double doors.  Then walk towards the staircase but turn at the first door on the left.  This is a bedroom.  Wait just inside the doorway. ",
+            "Walk down the hall and take your first right. Then turn left and walk down the hall. Take the first left before the stairs and enter the bedroom. Stop inside the doorway to the bedroom. ",
+            "Walk down the hall, take the first right, then a left through the doors, walk to the end of the hallway and turn left, wait in the doorway to the child's bedroom. "
+        ],
+        "instructions_minimal": [
+            "Walk down the hall and turn right. Turn left out of the double doors. Walk towards the staircase and turn at the first door on the left. Wait just inside the doorway.",
+            "Walk down the hall, take the first right, then turn left. Take the first left before the stairs and enter the bedroom. Stop at the doorway.",
+            "Walk down the hall, take the first right, then a left through the doors. Walk to the end of the hallway and turn left. Wait in the doorway."
+        ],
+        "instructions_goal_only": [
+            "Wait just inside the doorway of the bedroom.",
+            "Enter the bedroom.",
+            "Wait in the doorway to the child's bedroom."
+        ]
+    },
+    {
+        "scan": "YFuZgdQ5vWj",
+        "path_id": 501,
+        "path": [
+            "58f91129898f48d0a2ecc5cc8fa5005b"
+        ],
+        "heading": 4.994,
+        "instructions": [
+            "Walk up the flight of stairs to the top. Turn and walk through the open door to the bathroom with the painting of a tree. ",
+            "Walk up the stairs.  At the top of the stairs, make a left and walk to the first doorway on your right.  Go through this doorway, and you will be in a bathroom.  Stop in front of the bathroom mirror. ",
+            "Walk up the stairs and take a left. Enter the bathroom through the first door on your right. Stop in front of the sink on your left. "
+        ],
+        "instructions_minimal": [
+            "Walk up the stairs. Turn and go through the door to the bathroom.",
+            "Walk up the stairs. Turn left at the top and go to the first doorway on your right. Enter the doorway. Stop in front of the mirror.",
+            "Walk up the stairs, take a left, enter the first door on your right, and stop in front of the sink on your left."
+        ],
+        "instructions_goal_only": [
+            "Go to the bathroom with the painting of a tree.",
+            "Stand in front of the bathroom mirror.",
+            "Go to the sink in the bathroom."
+        ]
+    },
+    {
+        "scan": "rqfALeAoiTq",
+        "path_id": 1595,
+        "path": [
+            "dc0147a001bc4745a08d43c703eefaad"
+        ],
+        "heading": 4.685,
+        "instructions": [
+            "Go up the stairs and take a right. Stop outside the bathroom door. ",
+            "Turn and walk up the staircase to the top. Walk towards the pink open door at the top of the stairs. ",
+            "Walk up stairs. Wait at top of stair landing. "
+        ],
+        "instructions_minimal": [
+            "Go up the stairs, take a right, and stop at the bathroom door.",
+            "Walk up the staircase to the top. Move towards the open door.",
+            "Walk up stairs. Wait at the top."
+        ],
+        "instructions_goal_only": [
+            "Stop outside the bathroom door.",
+            "Enter the pink open door at the top of the stairs.",
+            "Wait at the top of the stairs."
+        ]
+    },
+    {
+        "scan": "wc2JMjhGNzB",
+        "path_id": 2983,
+        "path": [
+            "f14140828a1d4639b42fcb2a34f41f53"
+        ],
+        "heading": 4.555,
+        "instructions": [
+            "Walk straight down hallway until you reach hallway with lights on the walls. Stop at first light on wall. ",
+            "walk down the hallway directly across from the bathroom sink, continue straight through the large foyer and through the archway, stop in between the first two stripes of black tile. ",
+            "Turn around and walk straight down the hall. Continue to walk straight past the front doors and the dresser. Walk through the doorway and wait by the light. "
+        ],
+        "instructions_minimal": [
+            "Walk straight down the hallway until you reach the next hallway. Stop at the first light.",
+            "Walk straight down the hallway, through the foyer, and through the archway. Stop between the first two black tiles.",
+            "Turn around and walk straight down the hall. Continue past the doors and through the doorway. Wait by the light."
+        ],
+        "instructions_goal_only": [
+            "Stop at the first light on the wall.",
+            "Stop between the first two stripes of black tile.",
+            "Wait by the light."
+        ]
+    },
+    {
+        "scan": "jtcxE69GiFV",
+        "path_id": 7208,
+        "path": [
+            "44661972414d44fabc0799f237e4d7f0"
+        ],
+        "heading": 0.389,
+        "instructions": [
+            "Enter the walkway area and walk towards the hallway with the stairs. Turn right and walk past the stairs. Stop into the doorway to the bedroom on the right. ",
+            "Go straight down the hallway and take a right into the bedroom passed the stairs. ",
+            "Walk past the dresser and exit the room. Continue down the hall and turn hard right. Go past the stairs and stop in the doorway of the bedroom. "
+        ],
+        "instructions_minimal": [
+            "Enter the walkway, walk towards the hallway with the stairs, turn right, walk past the stairs, and enter the doorway on the right.",
+            "Go straight down the hallway and turn right into the bedroom.",
+            "Exit the room and go down the hall. Turn right. Go past the stairs and stop at the bedroom doorway."
+        ],
+        "instructions_goal_only": [
+            "Enter the bedroom on the right.",
+            "Enter the bedroom.",
+            "Stop in the doorway of the bedroom."
+        ]
+    },
+    {
+        "scan": "5ZKStnWn8Zo",
+        "path_id": 2952,
+        "path": [
+            "df6908d02e204805948aeefeefb91715"
+        ],
+        "heading": 2.162,
+        "instructions": [
+            "Walk through the dining room. Walk past the bathroom, on the right. Walk past the dining room on the left, and the wine storage on the right. Wait at the back of the white loveseat. ",
+            "Head straight toward the large table and chairs. Pass the table and chairs and continue down the hallway. When you get to another large table with chairs (this table has glass on the top) turn right and go straight into the room with the pool table by going through large arch. Then wait by the white couches. ",
+            "Move around the right side of the dining table to exit the room. Turn right at the table. Stop behind the left side of the love seat. "
+        ],
+        "instructions_minimal": [
+            "Walk through the dining room. Pass the bathroom on the right. Continue past the dining room on the left and the wine storage on the right. Wait at the back of the loveseat.",
+            "Go straight down the hallway. When you reach the large table, turn right and enter the room through the arch. Wait by the couches.",
+            "Exit the room by moving around the right side of the table. Turn right at the table and stop behind the love seat."
+        ],
+        "instructions_goal_only": [
+            "Wait at the back of the white loveseat.",
+            "Go to the room with the pool table and wait by the white couches.",
+            "Exit the room."
+        ]
+    },
+    {
+        "scan": "Vt2qJdWjCF2",
+        "path_id": 347,
+        "path": [
+            "4f918fb6edf247bcb7af86790e3260a0"
+        ],
+        "heading": 4.956,
+        "instructions": [
+            "Walk up the stairs and stop on the third step from the top. ",
+            "Turn around where you are and walk up the first flight of stairs.  Turn left at the landing and walk up the second flight of stairs.  Stop just before you get to the top of the second flight of stairs. ",
+            "Go up the stairs towards a glass block window, go up and wait to stairs from the top of the rest of the stairs. "
+        ],
+        "instructions_minimal": [
+            "Walk up the stairs and stop on the third step from the top.",
+            "Turn around and walk up the first flight of stairs. Turn left at the landing and walk up the second flight of stairs. Stop before the top of the second flight.",
+            "Go up the stairs and wait at the top."
+        ],
+        "instructions_goal_only": [
+            "Stop on the third step from the top.",
+            "Go to the top of the stairs.",
+            "Reach the top of the stairs."
+        ]
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "distance": 11.66,
+        "scan": "VLzqgDo317F",
+        "path_id": 6250,
+        "path": [
+            "af3af33b0120469c9a00daa0d0b36799",
+            "5be145994f974347850a48cecd04cdcd",
+            "79aedad1206b4eea9c4b639ea2182eb7",
+            "1c91ed40af2246f2b126dd0f661970df",
+            "385019f5d018430fa233d483b253076c",
+            "fd263d778b534f798d0e1ae48886e5f3"
+        ],
+        "heading": 3.751,
+        "instructions": [
+            "Walk down one flight of stairs and stop on the landing. ",
+            "Walk between the columns and make a sharp turn right. Walk down the steps and stop on the landing. ",
+            "walk forward then turn right at the stairs then go down the stairs. "
+        ],
+        "instructions_minimal": [
+            "Go down one flight of stairs and stop at the landing.",
+            "Go between the columns, turn right, walk down the steps, and stop on the landing.",
+            "Walk forward, turn right at the stairs, and go down."
+        ],
+        "instructions_goal_only": [
+            "Stop on the landing.",
+            "Stop on the landing.",
+            "Turn right and go down the stairs."
+        ]
+    },
+    {
+        "distance": 6.64,
+        "scan": "sT4fr6TAbpF",
+        "path_id": 3414,
+        "path": [
+            "9d001c6bc0f64a699fd36a6b9a61266a",
+            "8138835f78064c28b6c9c35a89eda7d6",
+            "37a978a1cc0e4464a714fb676f65b7fb",
+            "859a7c9c12c847d9a6860bd6d6bd635a",
+            "c3c5e202b9a04a63ae33742fe9095936",
+            "c06aae190b804b759496db0b88fe4820"
+        ],
+        "heading": 4.714,
+        "instructions": [
+            "Turn around and go straight. Take a left at the wall and go straight. ",
+            "Head straight until you pass the wall with holes in it the turn left and wait by the glass table with the white chairs. ",
+            "Go down past some room dividers toward a glasstop desk, and turn into the dining area. Wait next to the large glass dining table. "
+        ],
+        "instructions_minimal": [
+            "Turn around, go straight, take a left at the wall, and continue straight.",
+            "Go straight, turn left, and wait by the table.",
+            "Go past the room dividers to the glass desk, enter the dining area, and wait by the dining table."
+        ],
+        "instructions_goal_only": [
+            "Take a left at the wall to reach your destination.",
+            "Wait by the glass table with the white chairs.",
+            "Wait next to the large glass dining table."
+        ]
+    },
+    {
+        "distance": 7.61,
+        "scan": "8WUmhLawc2A",
+        "path_id": 48,
+        "path": [
+            "6c4ef6ac616042bc9fe4adc5f6d21b10",
+            "f553a3287fb2438b979f09b09448c7c0",
+            "e0d2a4e22abe44d7810d7e448fff6704",
+            "62e602fc5b85463dbd8f48ba625d05ef",
+            "1e951fdbfd9d45bbaf935da945f5425c",
+            "814d9aba371640e5a70bcb7833bfe08f",
+            "1b48df86b7a149fa8e90161265def866"
+        ],
+        "heading": 3.272,
+        "instructions": [
+            "Walk into the hallway and through the entrance to the kitchen area. Walk  Passed the sink and stove area and stop between the refrigerator and dining table. ",
+            "Walk through the kitchen. Go past the sink and stove stand in front of the dining table on the bench side. ",
+            "Walk into the kitchen.  Walk past the refrigerator.  Stop directly in front of the wooden table. "
+        ],
+        "instructions_minimal": [
+            "Enter the hallway to the kitchen, pass the sink and stove, and stop between the refrigerator and dining table.",
+            "Walk through the kitchen, pass the sink and stove, and stand by the bench side of the dining table.",
+            "Enter the kitchen, walk past the refrigerator, and stop in front of the table."
+        ],
+        "instructions_goal_only": [
+            "Stop between the refrigerator and dining table.",
+            "Stand in front of the dining table on the bench side.",
+            "Stop directly in front of the wooden table."
+        ]
+    },
+    {
+        "distance": 11.31,
+        "scan": "p5wJjkQkbXX",
+        "path_id": 2513,
+        "path": [
+            "897ee6cdc5314ffaa23bf487ac2e0def",
+            "12cd53fa035549b29c5afe191ca7c0bb",
+            "88e1a361dfe240d49d9f3bf34a8f1617",
+            "5d8ebc45c0c34488aca8f4edf86ec97c",
+            "7913c846ee9443daafb87cab26566963"
+        ],
+        "heading": 3.145,
+        "instructions": [
+            "Walk past the chairs and to the left. Walk in front of the chair and stop. ",
+            "Exit the bedroom via the farthest left. Walk toward the couch. Stop there. ",
+            "Go towards the front door but before the front door make a left, then through the archway, go to the middle of the middle room and stop. "
+        ],
+        "instructions_minimal": [
+            "Walk past the chairs to the left and stop in front of the chair.",
+            "Leave the bedroom to the left, walk to the couch, and stop.",
+            "Before reaching the front door, turn left, go through the archway, and stop in the center of the middle room."
+        ],
+        "instructions_goal_only": [
+            "Stop in front of the chair.",
+            "Stop at the couch.",
+            "Stop in the middle of the middle room."
+        ]
+    },
+    {
+        "distance": 13.34,
+        "scan": "SN83YJsR3w2",
+        "path_id": 6310,
+        "path": [
+            "bd67e1a2dec64aab9e028df026ce4caf",
+            "d2cf7bc1308c4d1b86973b4ad1336404",
+            "6019439d967f4e5ab8332170d0d17a57",
+            "913aefa5733c425eb79de9f5e225cd0e",
+            "f745a3bf638a40dd85e29ce98d8c2aba",
+            "81a50ecde0ab42cd81e0cf23a2529675",
+            "7d9e8e6508884b1c8c9fedf59d70729e"
+        ],
+        "heading": 1.829,
+        "instructions": [
+            "Walk beside the outside doors and behind the chairs across the room. Turn right and walk up the stairs. Stop on the seventh step. ",
+            "Turn left and walk through the living room. Exit the room, turn right and walk up the stairs. stop in th e middle of the stairs. ",
+            "With the windows on your left, walk through the large room past the sitting areas.  Go through the door left of the tapestry and enter a wood paneled room with a circle table in the middle.  Go up the stairs and stop on the sixth step from the bottom. "
+        ],
+        "instructions_minimal": [
+            "Walk past the outside doors and chairs, turn right, go up the stairs, and stop on the seventh step.",
+            "Turn left, walk through the living room, turn right, go up the stairs, and stop in the middle.",
+            "Walk through the large room, take the left door, go up the stairs, and stop on the sixth step."
+        ],
+        "instructions_goal_only": [
+            "Stop on the seventh step.",
+            "Stop in the middle of the stairs.",
+            "Climb the stairs and stop on the sixth step."
+        ]
+    }
+]
