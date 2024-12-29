@@ -1,6 +1,13 @@
-# rpl2024-final-group9
+# Assessing Phi-3's Ability on Vision-Language Navigation
+<em>RPL2024 Final Project Group 9</em>
 
+# README is not done yet!!
 
+## Directories
+
+The `Matterport3DSimulator` directory contains everything related to the MP3D dataset, including R2R benchmark (which is base on MP3D).
+However, to run the simulator, one needs to request access to the MP3D dataset by sending an email the owner ; for more details, see [their repo](https://github.com/peteanderson80/Matterport3DSimulator/).
+(We have download the RGB skybox images, which is about 23GB.)
 
 ## Introduction
 
@@ -39,6 +46,14 @@ Ensure you have the following installed:
 
 - **Python 3.7+**
 - **OpenAI API Key**: Required to access the LLMs.
+
+For reference, the environment we used contains
+- numpy 1.24.4
+- opencv-python 4.10.0.84
+- python 3.8.17
+- torch 2.4.1
+- transformers 4.46.3
+
 
 ## Scripts
 
