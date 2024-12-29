@@ -102,7 +102,7 @@ python extract_100.py
 
 ## Directory Structure
 
-Inside the `tasks/R2R/data_another_bench` is our generated data, which contains
+<!-- Inside the `tasks/R2R/data_another_bench` is our generated data, which contains
 ```
 R2R-Benchmark-Enhancement/
 ├── 4o-mini/
@@ -124,11 +124,15 @@ R2R-Benchmark-Enhancement/
 ├── process_o1.py
 ├── extract_100.py
 └── .env
-```
+``` -->
 
 - **4o-mini/**: Contains processed JSON files using the **4o-mini** LLM.
 - **4o/**: Contains processed JSON files using the **4o** LLM.
-- **o1/**: Contains processed JSON files using the **o1-mini** LLM.
+- **o1-mini/**: Contains processed JSON files using the **o1-mini** LLM.
+- **4o-mini-45-ins/**, **4o-45-ins/**, **o1-mini-45-ins/**: The same as above, but only keep the first 45 instructions. Used when inference is taking too long.
+
+Other scripts you may find useful are listed in the `.` folder.
+
 - **process.py**: Script for processing with 4o-mini and 4o models.
 - **process_o1.py**: Script for processing with o1-mini model.
 - **extract_100.py**: Script to extract the first 100 objects from JSON files.
